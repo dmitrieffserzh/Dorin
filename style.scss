@@ -131,6 +131,13 @@ body {
         visibility: visible;
         opacity: 1;
       }
+      &--active .main-menu__link {
+        color: #C90021;
+      }
+      &--active:before {
+        left: 0;
+        width: 100%;
+      }
     }
     &__link {
       display: block;

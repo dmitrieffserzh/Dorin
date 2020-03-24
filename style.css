@@ -143,6 +143,13 @@ body {
   visibility: visible;
   opacity: 1;
 }
+.main-menu__item--active .main-menu__link {
+  color: #C90021;
+}
+.main-menu__item--active:before {
+  left: 0;
+  width: 100%;
+}
 .main-menu__link {
   display: block;
   padding: .75rem 0;
