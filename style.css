@@ -242,14 +242,14 @@ body {
  */
 .footer {
   margin: 3rem 0 0;
-  background: #E8F2F6;
+  background: #e8edf6;
 }
 .footer-copyright {
-  border-top: 1px Solid #c7d5da;
-  line-height: 4rem;
-  font-weight: 600;
+  border-top: 1px Solid #d6e1e4;
+  line-height: 3.5rem;
+  font-weight: 500;
   font-size: .8rem;
-  color: #9da6ab;
+  color: #6c8492;
   text-align: center;
   -moz-transition: all 0.15s Linear;
   -o-transition: all 0.15s Linear;
@@ -265,7 +265,8 @@ body {
  */
 .footer-menu {
   background: #D7DDEB;
-  border-bottom: 1px Solid #fff;
+  border-top: 1px Solid #c3c8d2;
+  border-bottom: 1px Solid #f2f5f9;
 }
 .footer-menu__list {
   display: table;
