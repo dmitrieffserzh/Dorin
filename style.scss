@@ -367,7 +367,7 @@ body {
 
 .product {
   background: #fff;
-  height: 350px;
+  height: 300px;
   @include box-shadow(0 10px 30px rgba(0, 0, 0, .05));
   @include border-radius(.5rem);
   @include transition(all .15s Linear);
